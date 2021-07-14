@@ -14,7 +14,7 @@ fig = plt.figure(facecolor='w', edgecolor='w', frameon=True, figsize=(10,9))
 
 ax = aplpy.FITSFigure(VLASS_FITS, figure=fig)
 
-ax.show_colorscale(cmap='gray', vmin=-.0001, vmax=0.00080)
+ax.show_colorscale(cmap='magma', vmin=-.0001, vmax=0.00080)
 
 ax.add_grid()
 ax.grid.show()
