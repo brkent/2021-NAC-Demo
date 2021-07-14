@@ -1,6 +1,7 @@
 # 2021-NAC-Demo
 Github demonstration for NRAO NAC Summer 2021
 
+Presentation slides:  https://github.com/brkent/2021-NAC-Demo/blob/main/2021-07-NAC-gitworkflowscience.pdf
 
 Define our project:  NAC Github demo with VLA Sky Survey
 
